@@ -1,72 +1,36 @@
-# Higor Soares de Souza  
-**Data Scientist | Python | SQL | Machine Learning | Data Analysis**
+# Olá!
 
-Sou Cientista de Dados formado pelo bootcamp da TripleTen, com foco em análise, modelagem e geração de insights orientados a negócio. Tenho experiência prática no desenvolvimento de projetos end-to-end, desde a limpeza e exploração dos dados até a validação e avaliação de modelos preditivos.
+Sou Higor Soares de Souza, um profissional apaixonado por dados e por transformar informações em decisões estratégicas. Concluí minha formação em Data Science pelo Bootcamp da TripleTen, onde desenvolvi experiência prática na análise, tratamento e modelagem de dados, aplicando estatística e machine learning para resolver problemas reais de negócio.
 
-Atualmente busco minha primeira oportunidade como Data Scientist ou Data Analyst, onde possa aplicar fundamentos sólidos de estatística, programação e machine learning para gerar impacto real por meio de dados.
+Durante a formação, aprendi a trabalhar com Python e SQL, utilizando bibliotecas amplamente aplicadas em ciência de dados como Pandas, NumPy, Matplotlib, Seaborn, Plotly e SciPy para manipulação, análise e visualização de dados. Também desenvolvi modelos supervisionados e não supervisionados com Scikit-learn e Keras, aplicando técnicas de regressão, classificação e clustering, além de validação cruzada e métricas de performance para garantir robustez e confiabilidade nas análises.
+
+Minha trajetória profissional anterior como Analista de Comunicação Corporativa fortaleceu meu pensamento analítico e estratégico. Atuei com análise de métricas, construção de relatórios executivos e dashboards, sempre com foco em traduzir dados complexos em insights claros e acionáveis para tomada de decisão. Essa experiência me proporcionou uma visão de negócio sólida e capacidade de comunicação técnica entre diferentes áreas.
+
+Tenho perfil analítico, atenção rigorosa aos detalhes e forte compromisso com aprendizado contínuo. Busco oportunidades como Data Scientist ou Data Analyst, onde possa aplicar meus conhecimentos técnicos para gerar impacto real por meio de dados.
+
+---
+## Linguagens e Ferramentas
+
+**Linguagens e Banco de Dados:**  
+Python, SQL  
+
+**Análise e Manipulação de Dados:**  
+Pandas, NumPy, SciPy  
+
+**Visualização de Dados:**  
+Matplotlib, Seaborn, Plotly  
+
+**Machine Learning:**  
+Scikit-learn, Keras  
+
+**Fundamentos:**  
+Estatística aplicada, análise exploratória de dados (EDA), modelagem supervisionada e não supervisionada, validação cruzada e métricas de performance  
 
 ---
 
-## Perfil Profissional
 
-Minha transição para a área de Dados foi construída sobre uma base anterior como Analista de Comunicação Corporativa, onde desenvolvi forte capacidade analítica, visão estratégica e habilidade de transformar informações complexas em comunicação clara e estruturada.
+## Vamos conversar:
 
-Essa combinação me permite:
-
-- Interpretar dados com foco em impacto de negócio  
-- Traduzir análises técnicas em insights acionáveis  
-- Estruturar relatórios e dashboards objetivos  
-- Trabalhar de forma colaborativa e orientada a resultados  
-
-Tenho perfil analítico, alta capacidade de aprendizado e atenção rigorosa a detalhes técnicos.
-
----
-
-## Competências Técnicas
-
-### Linguagens e Banco de Dados
-- Python  
-- SQL  
-
-### Bibliotecas e Ferramentas
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- Matplotlib  
-- Seaborn  
-
-### Fundamentos e Métodos
-- Análise Exploratória de Dados (EDA)  
-- Limpeza e tratamento de dados  
-- Feature engineering  
-- Modelos de regressão e classificação  
-- Validação cruzada e métricas de performance  
-- Estruturação de pipelines de análise  
-
----
-
-## Projetos
-
-Neste repositório você encontrará projetos desenvolvidos durante minha formação em Data Science, com aplicação prática de:
-
-- Modelagem preditiva  
-- Análises exploratórias completas  
-- Problemas orientados a negócio  
-- Construção de soluções baseadas em dados  
-
-Todos os projetos seguem abordagem estruturada, com documentação clara, justificativa de decisões técnicas e análise de resultados.
-
----
-
-## Objetivo
-
-Atuar como Data Scientist ou Data Analyst em um ambiente que valorize decisões orientadas por dados, melhoria contínua e impacto mensurável.
-
----
-
-## Contato
-
-Rio de Janeiro – RJ  
-Email: higorsoaress@hotmail.com  
 LinkedIn: https://www.linkedin.com/in/higorsoaress/  
+E-mail: higorsoaress@hotmail.com  
 GitHub: https://github.com/Hig-SoS  
