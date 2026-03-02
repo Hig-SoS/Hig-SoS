@@ -8,6 +8,7 @@ Minha trajetória profissional anterior como Analista de Comunicação Corporati
 
 Tenho perfil analítico, atenção rigorosa aos detalhes e forte compromisso com aprendizado contínuo. Busco oportunidades como Data Scientist ou Data Analyst, onde possa aplicar meus conhecimentos técnicos para gerar impacto real por meio de dados.
 
+
 ---
 ## Linguagens e Ferramentas
 
